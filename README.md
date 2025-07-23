@@ -1,6 +1,6 @@
 # LeetCode
 
-This repository contains all the solutions to LeetCode practice questions which I have done till date, with 100% TC passed.
+This repository contains all the solutions to LeetCode practice questions that are mostly asked in placements.
 All the complexities are also mentioned alongside.
 
 
